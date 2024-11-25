@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\OneDrive\\Работен плот\\BIskvitki_Sesii_IP\\BIskvitki_Sesii_IP\\BIskvitki_Sesii_IP.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\OneDrive\\Документи\\GitHub\\Biskvitki_Sesii_IP\\BIskvitki_Sesii_IP\\BIskvitki_Sesii_IP.csproj",
       "projectName": "BIskvitki_Sesii_IP",
-      "projectPath": "C:\\Users\\ASUS\\OneDrive\\Работен плот\\BIskvitki_Sesii_IP\\BIskvitki_Sesii_IP\\BIskvitki_Sesii_IP.csproj",
+      "projectPath": "C:\\Users\\ASUS\\OneDrive\\Документи\\GitHub\\Biskvitki_Sesii_IP\\BIskvitki_Sesii_IP\\BIskvitki_Sesii_IP.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\OneDrive\\Работен плот\\BIskvitki_Sesii_IP\\BIskvitki_Sesii_IP\\obj\\",
+      "outputPath": "C:\\Users\\ASUS\\OneDrive\\Документи\\GitHub\\Biskvitki_Sesii_IP\\BIskvitki_Sesii_IP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

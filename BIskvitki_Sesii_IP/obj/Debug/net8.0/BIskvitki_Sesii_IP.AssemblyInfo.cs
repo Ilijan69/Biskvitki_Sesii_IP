@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BIskvitki_Sesii_IP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81ce6d40b418ff60199c02d03dbb2efb8b7a6988")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("BIskvitki_Sesii_IP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BIskvitki_Sesii_IP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
