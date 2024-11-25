@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BIskvitki_Sesii_IP/1.0.0": {
+        "runtime": {
+          "BIskvitki_Sesii_IP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BIskvitki_Sesii_IP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,24 @@
+﻿@{
+    ViewData["Title"] = "NAchalna stramica";
+}
+
+<h1>Welcome!</h1>
+@if (ViewBag.Username != null)
+{
+    <p>Username: @ViewBag.Username!</p>
+}
+
+<form asp-action="SetUsername" method="post">
+    <label for="username">Enter username:</label>
+    <input type="text" id="username" name="username" required />
+    <button type="submit">Submit</button>
+</form>
+
+<h2>Your selected theme: @ViewBag.UserPreference</h2>
+
+<form asp-action="SetCookie" method="post">
+    <button type="submit" name="preference" value="DarkMode">Select Dark Mode</button>
+    <button type="submit" name="preference" value="LightMode">Select Light Mode</button>
+</form>
+
+<p>Vashata tekushta tema: @ViewBag.UserPrefernce</p>
